@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff:wght@400..700&family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&display=swap');
+body{background-color: lightpink;}
+h1{ /* Permalink - use to edit and share this gradient. Enlace permanente - úsalo para editar y compartir este gradiente: https://colorzilla.com/gradient-editor/#d0e4f7+0,5468e5+0,424ab5+0,6f73aa+22,6f73aa+22,87bcea+100 */
+background: linear-gradient(135deg,  rgba(208,228,247,1) 0%,rgba(84,104,229,1) 0%,rgba(66,74,181,1) 0%,rgba(111,115,170,1) 22%,rgba(111,115,170,1) 22%,rgba(135,188,234,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+
+	 font-family: "DynaPuff", system-ui;
+}
+#contenedor {
+	width: 950px;
+	height: auto;
+	margin: auto;
+background: linear-gradient(135deg, rgba(208,228,247,1) 0%,rgba(84,104,229,1) 0%,rgba(66,74,181,1) 0%,rgba(111,115,170,1) 22%,rgba(111,115,170,1) 22%,rgba(135,188,234,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+
+}
+h3 {
+	color:white;
+	 font-family: "DynaPuff", system-ui;
+}
+#encabezado {
+	width: 950px;
+	height: 200px;
+	background-color: grey;
+	background-image: url(img/ingles.jpg);
+}
+#botonera {
+	height: 40px;
+	color:white;
+	background-color:black;
+}
+#botonera ul {
+	margin: auto;
+	width: 600px;
+}
+#botonera ul li {
+	float: left;
+	width: 98px;
+	line-height: 40px;
+	text-align: center;
+	list-style-type: none;
+}
+#botonera ul li a: hover {
+	color: #090;
+
+}
+#centro {
+	width: 950px;
+	height: 500px;
+}
+#caja1 {
+	width: 550px;
+	height: 460px;
+	float:left;
+	margin-left:10px;
+}
+#caja2 {
+	width: 315px;
+	height: 430px;
+	background-color: lightblue;
+	float:left;
+	margin-top:10px;
+	margin-left:10px;
+border-radius: 23px 22px 22px 22px;
+-webkit-border-radius: 23px 22px 22px 22px;
+-moz-border-radius: 23px 22px 22px 22px;
+}
+.centrado {
+	text-align:center;
+}
+
+#pie {
+	width: 950px;
+	height: 40px;
+	background-color:black;
+	color:white;
+	text-align:center;
+	font-family:sans-serif;
+	line-height: 40px;
+}
+body{
+	background-color:lightblue;
+}
